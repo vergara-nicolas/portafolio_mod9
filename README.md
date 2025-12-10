@@ -101,8 +101,8 @@ Documento donde compilo el análisis técnico y las decisiones de diseño de uno
 ## Contacto
 
 - **Email:** tu_correo@ejemplo.com  
-- **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/TU_PERFIL)  
-- **GitHub:** [Mi perfil de GitHub](https://github.com/TU_USUARIO)
+- **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/vergara-nicolas)  
+- **GitHub:** [Mi perfil de GitHub](https://github.com/vergara-nicolas)
 
 ---
 
