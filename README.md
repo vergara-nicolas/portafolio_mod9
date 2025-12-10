@@ -46,7 +46,7 @@ Formación en electrónica analógica y digital, programación de microcontrolad
 
 ## Proyectos
 
-### API de Gestión de Productos (Bootcamp Módulos 7–9)
+### API de Gestión de Productos
 
 API REST desarrollada con **Node.js y Express**, conectada a una base de datos mediante **Sequelize**, que permite gestionar productos (crear, listar, actualizar y eliminar).
 
@@ -56,7 +56,7 @@ API REST desarrollada con **Node.js y Express**, conectada a una base de datos m
 
 **Tecnologías:** Node.js, Express, Sequelize, PostgreSQL/MySQL.
 
-[Ir al proyecto](https://github.com/TU_USUARIO/TU_REPO_API_PRODUCTOS) <!-- Reemplaza con tu URL real -->
+[Ir al proyecto](https://github.com/vergara-nicolas/APIGestionProductos) <!-- Reemplaza con tu URL real -->
 
 
 ### Plataforma IoT para Monitoreo Hídrico (Proyecto Personal / Profesional)
@@ -69,7 +69,7 @@ Sistema de telemetría para monitorear variables como caudal, nivel y calidad de
 
 **Tecnologías:** ESP32/ATmega2560, LoRa, SIM7600, EMQX, AWS, Node.js, bases de datos SQL/NoSQL.
 
-[Ir al proyecto](https://github.com/TU_USUARIO/TU_REPO_IOT) <!-- Reemplaza con tu URL real -->
+[Ir al proyecto](https://github.com/vergara-nicolas) <!-- Reemplaza con tu URL real -->
 
 
 ### Galería y Frontend de Ejemplo
@@ -82,7 +82,7 @@ Proyecto frontend creado durante el Bootcamp para practicar:
 
 **Tecnologías:** HTML, CSS, JavaScript.
 
-[Ir al proyecto](https://github.com/TU_USUARIO/TU_REPO_FRONTEND) <!-- Reemplaza con tu URL real -->
+[Ir al proyecto](https://github.com/vergara-nicolas) <!-- Reemplaza con tu URL real -->
 
 
 ### Informe / Documentación Técnica
@@ -94,7 +94,7 @@ Documento donde compilo el análisis técnico y las decisiones de diseño de uno
 - Tecnologías utilizadas.
 - Conclusiones y proyecciones.
 
-[Ver informe](https://TU_LINK_AL_PDF_O_REPO) <!-- Reemplaza con tu URL real -->
+[Ver informe](https://github.com/vergara-nicolas) <!-- Reemplaza con tu URL real -->
 
 ---
 
